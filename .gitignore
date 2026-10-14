@@ -1,0 +1,8 @@
+node_modules/
+dist/
+*.tsbuildinfo
+src-tauri/target/
+src-tauri/gen/
+.env.local
+src-tauri/icons/*
+!src-tauri/icons/icon.ico
